@@ -1,3 +1,8 @@
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Gerson</h2>
+
+<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+
+
 ### 👨🏻‍💻 &nbsp;About Me:
 Software Developer passionate about continuous learning and creating scalable and efficient applications. With experience in full-stack development and a focus on modern web technologies. Located in Peru, always looking for new challenges and optimizing development flows.
 
