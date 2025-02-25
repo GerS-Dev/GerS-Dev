@@ -3,7 +3,7 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 <div align="left">
-<h1 align="left">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
+<h1 align="left">Hey There! <a href="https://aristi.dev">I'm Gerson</a> 👋</h1>
 </div>
 
 
