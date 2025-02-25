@@ -1,9 +1,6 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 <div align="left">
-<h1 align="left">Hey There! <a href="https://aristi.dev">I'm Gerson</a> 👋</h1>
+<h1 align="left">Hey There! I'm Gerson</a> 👋</h1>
 </div>
 
 
