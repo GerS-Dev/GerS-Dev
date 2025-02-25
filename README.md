@@ -18,7 +18,6 @@ Software Developer passionate about continuous learning and creating scalable an
 
 # 📊 GitHub Stats:
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=luisdevelop23&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luisdevelop23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
