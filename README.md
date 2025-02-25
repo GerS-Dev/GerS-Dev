@@ -11,9 +11,10 @@ Software Developer passionate about continuous learning and creating scalable an
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=luisdevelop23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=luisdevelop23&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luisdevelop23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 --
 Credits: [Gerson Saldaña De La Cruz](https://github.com/GerS-Dev)
