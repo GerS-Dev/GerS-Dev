@@ -8,7 +8,7 @@
 ### 👨🏻‍💻 &nbsp;About Me:
 Software Developer passionate about continuous learning and creating scalable and efficient applications. With experience in full-stack development and a focus on modern web technologies. Located in Peru, always looking for new challenges and optimizing development flows.
 
-## 🌐 Socials:
+## 🌐 &nbsp;Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gerson__sd/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/gerson-saldaña-de-la-cruz-4478412a1) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gersonsaldana325@gmail.com) 
