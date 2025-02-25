@@ -1,4 +1,4 @@
-![GERSON SALDAÑA Banner](https://i.postimg.cc/RVkTV8SD/Black-Navy-Futuristic-Modern-Cybersecurity-Presentation-1.png)
+![GERSON SALDAÑA Banner](https://i.postimg.cc/kGPFnYdm/Bannergith.png)
 
 <div align="left">
 <h1 align="left">Hey There! I'm Gerson</a> 👋</h1>
