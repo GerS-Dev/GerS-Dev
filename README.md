@@ -1,5 +1,5 @@
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://i.postimg.cc/mr0xF0f1/Black-Navy-Futuristic-Modern-Cybersecurity-Presentation.png">
 
 <div align="left">
 <h1 align="left">Hey There! I'm Gerson</a> 👋</h1>
